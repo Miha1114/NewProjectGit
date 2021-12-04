@@ -6,6 +6,7 @@ import java.util.Random;
 
 public class Main {
 
+    // List a random number
 
     public static void main(String[] args) {
         ArrayList<Integer> numbersList = new ArrayList<>();
